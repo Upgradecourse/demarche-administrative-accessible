@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.field {
+  margin-bottom: 12px;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+}
+
+.error {
+  color: red;
+  display: none;
+}
+
+button {
+  padding: 10px;
+  background: #ccc;
+  border: none;
+}
