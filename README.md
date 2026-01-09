@@ -6,6 +6,27 @@ Vous intervenez sur une **démarche administrative en ligne** destinée au grand
 Le formulaire existant est fonctionnel mais **présente de nombreux problèmes d’accessibilité,
 d’utilisabilité et de conformité RGAA**.
 
+Votre Mission
+Vous héritez d'un code source "legacy" contenant les bases d'un formulaire administratif. Votre objectif est de reconstruire une démarche complète et conforme au RGAA 4.1.
+
+Choisissez l'un des parcours suivants :
+
+Parcours CAF : Demande d'aide au logement (focus sur la logique métier complexe).
+
+Parcours ANTS : Renouvellement de permis (focus sur la gestion des pièces jointes).
+
+Parcours Intérieur : Pré-plainte en ligne (focus sur l'expérience utilisateur et le texte libre).
+
+Parcours Élections : Inscription sur les listes (focus sur la précision des données géographiques).
+
+Contraintes techniques :
+
+Respect strict du contraste et de la navigation clavier.
+
+Utilisation des attributs ARIA pertinents.
+
+Optimisation du poids de la page (zéro framework lourd si possible).
+
 Votre mission consiste à :
 - auditer le formulaire existant,
 - identifier les non-conformités,
